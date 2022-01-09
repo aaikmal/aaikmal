@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aaikmal
-- 👀 I’m interested in Learning
+- 👀 I'm interested in Writing
 - 🌱 I’m currently learning Everything
-- 💞️ I’m looking to collaborate on Amazon
+- 💞️ I’m looking to collaborate on Google
 
 <!---
 aaikmal/aaikmal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
